@@ -1,20 +1,95 @@
-## Hello there! i'm Ahsan Kholiqin 👋
+<h2 align="left">Hi 😶‍🌫️! My name is Ahsan Kholiqin</h2>
 
-<!--
-**yellowkunn/yellowkunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="left">
+  <a href="https://instagram.com/ahsankholiqin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahsanlubis308@gmail.com&su=Halo&body=Halo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahsankholiqin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-- 🌱 I’m currently learning Pyhton
+###
 
-![adventure time](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVkcmJ4dmNmdTRwdWliN3oyMHBmbzIzemplZ3p6ZXBkZm16eG50cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuEyvLPXMLhT2/giphy.gif)
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<img 
+  align="right" 
+  width="149" 
+  height="150" 
+  style="object-fit: cover;" 
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRmN3U1eHJ1N2x1bnp2NGtwMnZlazYzZzJkbTNyMW1jcGlmazQyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0cxvHnXXj10aJt7pPD/giphy.gif" 
+/>
+
+
+###
+
+<h5>💻 About Me</h5>
+<p align="left">
+🎓 Information Technology student at Universitas Sumatera Utara (USU)<br>
+🚀 Passionate about web development, UI/UX design, and machine learning<br>
+💡 Experienced in managing government and organization projects as designer & coordinator<br>
+🧩 Love solving problems through clean code and thoughtful design<br>
+🌱 Currently learning Kotlin for Android Development and Deep Learning (CNN-BiLSTM-Attention)
+</p>
+
+<h5>🏗️ Current Projects</h5>
+<p align="left">
+🌐 Developing village website systems for regional information management (Website Desa Project Series)<br>
+📚 Developing an e-learning platform with microservices (Auth, User, Class, Loan Services)<br>
+🎵 Building a speech emotion classification system using CNN–BiLSTM–Attention<br>
+📱 Designing a planner app inspired by Notion philosophy
+</p>
+
+<h5>🏅 Experience</h5>
+<p align="left">
+🏛️ Administrative and design support at Bappelitbang Provinsi Sumatera Utara<br>
+🎨 Coordinator of Publication, Documentation, and Design Division (PDD) in multiple campus events
+</p>
+
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="35" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/yellowkunn/yellowkunn/output/snake.svg" alt="Snake animation" />
