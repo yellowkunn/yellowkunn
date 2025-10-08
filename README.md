@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! i'm Ahsan Kholiqin 👋
 
 <!--
 **yellowkunn/yellowkunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Pyhton
+
+![adventure time](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjVkcmJ4dmNmdTRwdWliN3oyMHBmbzIzemplZ3p6ZXBkZm16eG50cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuEyvLPXMLhT2/giphy.gif)
