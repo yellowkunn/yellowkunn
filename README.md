@@ -17,19 +17,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+
 
 ###
 
-<img 
-  align="right" 
-  width="149" 
-  height="150" 
-  style="object-fit: cover;" 
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRmN3U1eHJ1N2x1bnp2NGtwMnZlazYzZzJkbTNyMW1jcGlmazQyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0cxvHnXXj10aJt7pPD/giphy.gif" 
-/>
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV2MmR2OTVvd3l6Mm5mZ2tzbGE5eDBxY2p5ZnRieGsybzk1dWxmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YIL2voRgPXEbu/giphy.gif" />
 
 
 ###
@@ -88,6 +80,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=srlfo91ttm73lnlt727q3x8gh&unique=true" alt="Spotify Recently Played" />
 </div>
 
 ###
