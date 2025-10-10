@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV2MmR2OTVvd3l6Mm5mZ2tzbGE5eDBxY2p5ZnRieGsybzk1dWxmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YIL2voRgPXEbu/giphy.gif" />
+<!-- <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV2MmR2OTVvd3l6Mm5mZ2tzbGE5eDBxY2p5ZnRieGsybzk1dWxmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YIL2voRgPXEbu/giphy.gif" /> -->
 
 ###
 
@@ -62,7 +62,7 @@
 <img src="https://raw.githubusercontent.com/yellowkunn/yellowkunn/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!-- 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=srlfo91ttm73lnlt727q3x8gh&unique=true" alt="Spotify Recently Played" />
-</div>
+</div> -->
